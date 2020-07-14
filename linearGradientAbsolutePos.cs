@@ -11,9 +11,9 @@ using iText.Layout.Properties;
 
 namespace iText.Samples.Sandbox.Graphics
 {
-    public class LinearGradientsInLayout
+    public class LinearGradientsInLayoutParagraph
     {
-        public static readonly string DEST = "results/linearGradientPositionBased.pdf";
+        public static readonly string DEST = "results/linearGradientParagraph.pdf";
 
         public static void Main(String[] args)
         {
