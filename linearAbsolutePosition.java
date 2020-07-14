@@ -17,7 +17,7 @@ import com.itextpdf.layout.property.UnitValue;
 
 import java.io.File;
 
-public class LinearGradientsInLayout {
+public class LinearGradientsInLayoutPositionBased {
     public static final String DEST = "./results/linearGradientPositionBased.pdf";
 
     public static void main(String[] args) throws Exception {
