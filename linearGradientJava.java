@@ -15,7 +15,7 @@ import com.itextpdf.layout.property.Property;
 
 import java.io.File;
 
-public class LinearGradientsInLayout {
+public class LinearGradientsInLayoutParagraph {
     public static final String DEST = "./results/linearGradientParagraph.pdf";
 
     public static void main(String[] args) throws Exception {
